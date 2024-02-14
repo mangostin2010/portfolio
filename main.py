@@ -139,7 +139,7 @@ with st.container():
         ):
             '#### Weather🌨️'
             'https://github.com/mangostin2010/Weather'
-            'https://illuda.streamlit.app'
+            'https://weather4korea.streamlit.app'
             '#####'
     with col2:
         with stylable_container(

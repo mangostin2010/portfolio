@@ -1,0 +1,28 @@
+
+/*#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}*/
+
+p {
+    margin: 0px 0px 0px;
+}
+
+.st-emotion-cache-1dp5vir {visibility: hidden;}
+
+.st-emotion-cache-18ni7ap {
+    text-align: center;
+    padding: 10px 0;
+    background: azure;
+    border-bottom: solid 1px gray;
+}
+.st-emotion-cache-18ni7ap::before {
+    content: "강예건의 포트폴리오";
+    font-size: 17px;
+}
+
+/* Deploy, 설명 없앰 */
+.st-emotion-cache-zq5wmm {visibility: hidden;}
+
+.stApp {
+    background: rgb(168,250,255);
+    background: linear-gradient(90deg, rgba(168,250,255,0.4) 0%, rgba(237,252,163,0.3958771008403361) 100%, rgba(120,105,255,1) 100%);
+}

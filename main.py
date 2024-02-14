@@ -69,7 +69,8 @@ with col1:
             """,
     ):
         '#### Bloggie'
-        '(현재 호스팅 되지 않을 수 있음)http://bloggie.kro.kr'
+        '(현재 호스팅 되지 않을 수 있음)'
+        'http://bloggie.kro.kr'
         '#####'
 
 with col2:

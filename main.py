@@ -208,5 +208,5 @@ with st.container():
         ):
             '#### KKaetalk깨톡🗨️'
             '(현재 호스팅 되지 않을 수 있음)'
-            'http://kkaetalk.kro.kr'
+            'http://kkaetalk.kro.kr:8080'
             '#####'

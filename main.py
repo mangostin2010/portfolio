@@ -188,7 +188,7 @@ with st.container():
                 }
                 """,
         ):
-            '#### literary-style-changer'
+            '#### literary-style-changer✍️'
             'https://bit.ly/literary-style-changer'
             '(현재 호스팅 되지 않을 수 있음)'
             'http://bloggie.kro.kr:8501'

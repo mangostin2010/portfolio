@@ -88,6 +88,7 @@ with col2:
         '#### Mangostin2010'
         'https://github.com/mangostin2010'
         '#####'
+        '###'
 
 add_vertical_space(3)
 with st.container():

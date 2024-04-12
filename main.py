@@ -210,9 +210,7 @@ with st.container():
             '(현재 호스팅 되지 않을 수 있음)'
             'http://kkaetalk.kro.kr:8080'
             '#####'
-
-    col1, col2 = st.columns(2)
-    with col1:
+    with col2:
         with stylable_container(
             key="container_with_border",
             css_styles="""
@@ -225,4 +223,5 @@ with st.container():
         ):
             '#### Cessay📝'
             'http://cessay.streamlit.app'
+            'https://github.com/mangostin2010/portfolio'
             '#####'

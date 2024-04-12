@@ -41,7 +41,7 @@ with col1:
     st.subheader('👦 Profile', divider='gray')
 
     '👼  2010년 9월 12일 출생'
-    '👶  수원어린이집 졸업'
+    '👶  수원어린이집 졸업(현재 없어짐)'
     '🏫  수원기독국제학교(SCIS) 재학중'
 
 

@@ -222,6 +222,6 @@ with st.container():
                 """,
         ):
             '#### Cessay📝'
-            'https://github.com/mangostin2010/portfolio'
+            'https://github.com/mangostin2010/cessay'
             'http://cessay.streamlit.app'
             '#####'
